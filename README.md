@@ -18,7 +18,24 @@ bower install
 gulp 
 ```
 
-# After "GULPED" directory
+# Before "GULP" (your heart warm home)
+```
+src
+├── jade
+│   ├── index.jade
+│   └── views
+│       ├── layout.jade
+│       ├── main.jade
+│       └── setting.jade
+├── js
+│   ├── index.js
+│   ├── main.js
+│   └── setting.js
+└── stylus
+    └── main.styl
+```
+
+# After "GULP" (split family after earthquake)
 ```
 app
 ├── bower_components
