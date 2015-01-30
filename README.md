@@ -18,3 +18,21 @@ bower install
 gulp 
 ```
 
+# After "GULPED" directory
+```
+app
+├── bower_components
+│   ├── angular
+│   │   └── foobarbaz
+│   └── angular-ui-router
+│       └── spamhameggs
+├── css
+│   └── main.css
+├── index.html
+├── scripts
+│   └── application.js
+└── views
+    ├── layout.html
+    ├── main.html
+    └── setting.html
+```
