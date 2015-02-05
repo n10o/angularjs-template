@@ -11,12 +11,10 @@ angular.module('signal', ['ui.router'])
         $stateProvider
             .state('main', {
                 url: '/',
-                controller: 'MainCtrl',
                 templateUrl: 'views/main.html'
             })
             .state('setting', {
                 url: '/setting',
-                controller: 'SettingCtrl',
                 templateUrl: 'views/setting.html'
             });
     });
